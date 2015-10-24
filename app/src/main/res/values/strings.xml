@@ -53,5 +53,8 @@
     <string name="cd_away_team_name">Away team name</string>
     <string name="cd_away_team_score">Away team score</string>
     <string name="no_matches_today">No matches today</string>
+    <string name="widget_header_test_text">2015-10-24 05:00</string>
+    <string name="widget_preview_home_team_test_text">Stuttgarter Kickers</string>
+    <string name="widget_preview_away_team_test_text">Wumblrburger Kickers</string>
 
 </resources>

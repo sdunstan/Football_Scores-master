@@ -9,9 +9,6 @@ import android.widget.RemoteViews;
 import barqsoft.footballscores.service.WidgetUpdateService;
 
 
-/**
- * Implementation of App Widget functionality.
- */
 public class ScoresWidget extends AppWidgetProvider {
 
     @Override
@@ -47,7 +44,6 @@ public class ScoresWidget extends AppWidgetProvider {
 
         Intent updateService = new Intent(context, WidgetUpdateService.class);
         context.startService(updateService);
-
     }
 }
 
